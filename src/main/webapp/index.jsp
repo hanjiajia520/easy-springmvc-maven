@@ -9,7 +9,7 @@
 </head>
 <body>
 <form action="login">
-	githup：<input id="username" name="username" type="text"></input><br>
+	github：<input id="username" name="username" type="text"></input><br>
 	密码：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
